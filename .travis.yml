@@ -1,6 +1,4 @@
 language: python
-os: "osx"
 rvm:
  - 3
  - django
- - os: osx
