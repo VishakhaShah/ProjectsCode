@@ -1,6 +1,6 @@
 language: python
 os: osx
 rvm:
- - 3.6.7
+ - 3
  - django
  - os: osx
